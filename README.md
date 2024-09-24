@@ -1,9 +1,4 @@
-# AWS-S3-static-website
-## Created a static website using AWS S3 
-[http://website-9.s3-website-us-east-1.amazonaws.com/]
+# House Price analysis and prediction
+## Used Linear and XGB regression to predict which features effect house prices
 
-## Made personal domain using Route 53 
 
-- Steps taken
- - First created a S3 bucket
-   - Changed object owenership to ACLs enabled
